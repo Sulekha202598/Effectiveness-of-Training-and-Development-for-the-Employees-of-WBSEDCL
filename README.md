@@ -1,4 +1,5 @@
 # Effectiveness-of-Training-and-Development-for-the-Employees-of-WBSEDCL
+
 About the Project
 
 Training and development is an important part of employee management in any organization. It helps employees improve their knowledge, skills and ability to perform their work properly. In an organization like West Bengal State Electricity Distribution Company Limited (WBSEDCL), training is especially important because employees have to deal with technical work, safety procedures, customer service and new technologies. This project is based on the effectiveness of training and development programs provided to the employees of WBSEDCL. The main purpose is to understand whether the training programs are helping employees in their daily work and professional development.
@@ -30,9 +31,11 @@ For WBSEDCL employees, training can be useful in areas such as:
 Research Method
 
 For this project, both primary and secondary data can be considered.
+
 Primary Data:
 
 Data can be collected through questionnaires, surveys and direct interaction with employees.
+
 Secondary Data:
 
 Information can be collected from company-related documents, reports, research papers, books, journals and other relevant sources.
@@ -40,6 +43,7 @@ Information can be collected from company-related documents, reports, research p
 Key Areas of the Study
 
 The effectiveness of training can be studied through different factors such as employee performance, skill improvement, productivity, job satisfaction and safety awareness.
+
 Expected Findings
 
 The study is expected to show that proper training can help employees improve their work performance, technical knowledge and confidence. It may also help in reducing mistakes and improving workplace safety.
